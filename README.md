@@ -1,2 +1,3 @@
 # read-my-syllabus
-Repo for syllabus reader project
+
+This is an ongoing project designed to take in student's syllabi and extract their deadlines. 
